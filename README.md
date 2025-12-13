@@ -184,17 +184,6 @@ Edit CSS variables in `css/variables.css`:
 - Add project filtering functionality
 - Implement lazy loading for images
 
-## License
-
-This project is open source and available for personal and educational use.
-
-## Contact
-
-For questions or suggestions, please reach out through the contact form on the website.
-
----
-
-**Note**: Remember to replace placeholder content with your actual information before deploying!
 
 
 
