@@ -175,15 +175,6 @@ Edit CSS variables in `css/variables.css`:
 - CSS: Use [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 - Accessibility: Use [WAVE](https://wave.webaim.org/) or Lighthouse
 
-## Future Enhancements
-
-- Add more interactive animations
-- Implement dark mode toggle
-- Add blog section
-- Integrate with backend for contact form
-- Add project filtering functionality
-- Implement lazy loading for images
-
 
 
 
